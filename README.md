@@ -1,4 +1,4 @@
-# Molecular modelling tools accessibles Google Colab
+# Molecular modelling tools accessible with Google Colab
 
 Google colab adapted from Colabfold (https://github.com/sokrypton/ColabFold). Many thanks to their amazing job!🙏
 
